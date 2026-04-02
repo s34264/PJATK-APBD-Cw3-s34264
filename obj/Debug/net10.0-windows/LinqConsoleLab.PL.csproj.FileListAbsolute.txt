@@ -1,0 +1,14 @@
+C:\Pulpit\LinqConsoleLab.PL\bin\Debug\net10.0-windows\LinqConsoleLab.PL.exe
+C:\Pulpit\LinqConsoleLab.PL\bin\Debug\net10.0-windows\LinqConsoleLab.PL.deps.json
+C:\Pulpit\LinqConsoleLab.PL\bin\Debug\net10.0-windows\LinqConsoleLab.PL.runtimeconfig.json
+C:\Pulpit\LinqConsoleLab.PL\bin\Debug\net10.0-windows\LinqConsoleLab.PL.dll
+C:\Pulpit\LinqConsoleLab.PL\bin\Debug\net10.0-windows\LinqConsoleLab.PL.pdb
+C:\Pulpit\LinqConsoleLab.PL\obj\Debug\net10.0-windows\LinqConsoleLab.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pulpit\LinqConsoleLab.PL\obj\Debug\net10.0-windows\LinqConsoleLab.PL.AssemblyInfoInputs.cache
+C:\Pulpit\LinqConsoleLab.PL\obj\Debug\net10.0-windows\LinqConsoleLab.PL.AssemblyInfo.cs
+C:\Pulpit\LinqConsoleLab.PL\obj\Debug\net10.0-windows\LinqConsoleLab.PL.csproj.CoreCompileInputs.cache
+C:\Pulpit\LinqConsoleLab.PL\obj\Debug\net10.0-windows\LinqConsoleLab.PL.dll
+C:\Pulpit\LinqConsoleLab.PL\obj\Debug\net10.0-windows\refint\LinqConsoleLab.PL.dll
+C:\Pulpit\LinqConsoleLab.PL\obj\Debug\net10.0-windows\LinqConsoleLab.PL.pdb
+C:\Pulpit\LinqConsoleLab.PL\obj\Debug\net10.0-windows\LinqConsoleLab.PL.genruntimeconfig.cache
+C:\Pulpit\LinqConsoleLab.PL\obj\Debug\net10.0-windows\ref\LinqConsoleLab.PL.dll
